@@ -1,17 +1,14 @@
 # Write your MySQL query statement below
 WITH cons_nums AS (
-    SELECT l1.num
-    FROM Logs l1
-    JOIN Logs l2
-        ON l2.id = l1.id + 1
-    JOIN Logs l3
-        ON l3.id = l1.id + 2
-    WHERE l1.num = l2.num
-      AND l2.num = l3.num
+    SELECT id,
+           num,
+           LEAD(num,1) OVER (ORDER BY id) AS ld1,
+           LEAD(num,2) OVER (ORDER BY id) AS ld2
+    FROM Logs
 )
+SELECT DISTINCT num AS ConsecutiveNums
+FROM cons_nums
+WHERE num = ld1 AND num = ld2
 
-SELECT DISTINCT
-       num AS ConsecutiveNums
-FROM cons_nums;
 
 
