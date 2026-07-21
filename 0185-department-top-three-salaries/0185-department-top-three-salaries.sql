@@ -1,15 +1,14 @@
 # Write your MySQL query statement below
-WITH top_sal AS (
-    SELECT d.id,
-           e.name AS Employee,
+WITH rank_sal AS (
+    SELECT a.id,
            d.name AS Department,
-           e.salary AS Salary,
-           DENSE_RANK() OVER (PARTITION BY d.id ORDER BY e.salary DESC) AS rnk
-    FROM Employee e 
-    JOIN Department d ON d.id = e.departmentId
+           a.name AS Employee,
+           departmentId,
+           salary AS Salary,
+           DENSE_RANK() OVER (PARTITION BY d.name ORDER BY a.salary DESC) AS rnk
+    FROM Employee a 
+    JOIN Department d ON a. departmentId = d.id
 )
-SELECT Department,
-       Employee,
-       Salary
-FROM top_sal
+SELECT Department, Employee, Salary
+FROM rank_sal
 WHERE rnk <= 3
