@@ -16,6 +16,7 @@
 | [0511-game-play-analysis-i](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1280-students-and-examinations) |
