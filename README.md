@@ -19,6 +19,7 @@
 | [0585-investments-in-2016](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0607-sales-person](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0607-sales-person) |
 | [1148-article-views-i](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1280-students-and-examinations) |
 | [1683-invalid-tweets](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1683-invalid-tweets) |
