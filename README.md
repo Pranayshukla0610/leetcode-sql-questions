@@ -22,6 +22,7 @@
 | [0607-sales-person](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0607-sales-person) |
 | [1148-article-views-i](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1280-students-and-examinations) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1978-employees-whose-manager-left-the-company) |
