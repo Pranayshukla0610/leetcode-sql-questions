@@ -21,6 +21,7 @@
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0607-sales-person) |
 | [0627-swap-sex-of-employees](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0627-swap-sex-of-employees) |
+| [1045-customers-who-bought-all-products](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1045-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1280-students-and-examinations) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
