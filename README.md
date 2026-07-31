@@ -20,6 +20,7 @@
 | [0595-big-countries](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0607-sales-person) |
+| [0619-biggest-single-number](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1045-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1148-article-views-i) |
