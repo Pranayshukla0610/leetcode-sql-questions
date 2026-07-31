@@ -28,6 +28,7 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1757-recyclable-and-low-fat-products) |
+| [1907-count-salary-categories](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1978-employees-whose-manager-left-the-company) |
