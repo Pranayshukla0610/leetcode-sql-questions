@@ -28,6 +28,7 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1757-recyclable-and-low-fat-products) |
+| [1795-rearrange-products-table](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1907-count-salary-categories) |
