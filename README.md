@@ -27,6 +27,7 @@
 | [1280-students-and-examinations](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1280-students-and-examinations) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1683-invalid-tweets) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1795-rearrange-products-table) |
