@@ -25,6 +25,7 @@
 | [1045-customers-who-bought-all-products](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1045-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1280-students-and-examinations) |
+| [1341-movie-rating](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1341-movie-rating) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1683-invalid-tweets) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Pranayshukla0610/leetcode-sql-questions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
