@@ -1,12 +1,13 @@
 # Write your MySQL query statement below
-WITH high_earners AS (
-    SELECT a.name AS Employee,
-           a.salary AS Salary,
+WITH highest_earner AS (
+    SELECT e.id,
+           e.name AS Employee,
            d.name AS Department,
-           DENSE_RANK() OVER (PARTITION BY d.name ORDER BY a.salary DESC) AS rnk
-    FROM Employee a 
-    JOIN Department d ON a.departmentId = d.id
+           e.salary AS Salary,
+           DENSE_RANK() OVER (PARTITION BY departmentId ORDER BY salary DESC) AS rnk
+    FROM Employee e
+    JOIN Department d ON e.departmentId = d.id
 )
 SELECT Department, Employee, Salary
-FROM high_earners
+FROM highest_earner
 WHERE rnk <= 3
